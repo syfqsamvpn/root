@@ -1,3 +1,3 @@
 ```
-wget https://raw.githubusercontent.com/syfqsamvpn/root/main/root.sh && chmod +x root.sh && ./root.sh
+sudo -i && wget https://raw.githubusercontent.com/syfqsamvpn/root/main/root.sh && chmod +x root.sh && ./root.sh
 ```
